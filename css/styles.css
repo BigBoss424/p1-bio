@@ -1,7 +1,14 @@
-/* Your Website Styles */
+/* My styles */ 
 
-html{
-	background-color: orange;
+
+
+
+#site-header{
+	padding: 652px 52px;
+}
+
+#image{
+	
 }
 /* Show Grid */
 .showgrid {
